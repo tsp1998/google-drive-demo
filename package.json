@@ -1,0 +1,9 @@
+{
+  "name": "google-drive-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^113.0.0"
+  }
+}
